@@ -7,7 +7,7 @@ of computing curriculum among the public community colleges and universities in 
 
 It is responsible for maintaining course numberings for CS and CIS labeled courses in
 the community college system as well as for maintaining the statewide CS Major
-Transfer Map and the ASOT-CS degree. 
+Transfer Map and the ASOT-CS degree.
 
 <div class="twocols"><section markdown="1">
 
@@ -18,15 +18,15 @@ Transfer Map and the ASOT-CS degree.
 
 ## Meetings
 
-* [Information about our next meeting](/meetings/)
-* [Previous meeting minutes](/meetings/past/)
+* [Information about meetings and next meeting agenda](/meetings/)
+* [Previous meetings](/meetings/past/)
 
 </section><section markdown="1">
 
 ## Courses
 
-* Ipsum
-* Lorem
+* [Common Course Numbers](/courses/)
+* Ipsum Lorem
 
 ## Degrees
 
