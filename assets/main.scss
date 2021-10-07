@@ -1,0 +1,97 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Customization of theme variables
+$content-width:    1000px;
+$on-palm:          600px;
+$on-laptop:        1000px;
+$brand-color:      #285eb4;
+
+
+@import "minima";
+
+//Override styles
+.site-footer {
+    padding: 0;
+}
+
+
+
+.post-content {
+    h4 {
+        font-size: 1rem;
+        font-weight: bold;
+        margin-bottom: 0;
+    } 
+
+    h4 + h4 {
+        margin-top: 15px;
+    }
+
+    hr {
+        margin: 10px 0;
+        border: 0; border-top: 1px solid #ddd;
+    }
+
+    a {
+        font-weight: 600;
+    }
+}
+
+.site-header, .site-nav {
+    background-color: darken($brand-color, 20%);
+    
+    .site-title, .page-link {
+        color: white;
+    }
+}
+
+.site-nav .menu-icon > svg {
+    fill: white;
+}
+
+@media screen and (min-width: $on-palm + 1) {
+    .twocols {
+        display: flex;
+        gap: 10px 20px;
+        flex-wrap: wrap;
+        margin-bottom: 15px;
+
+        section {
+            width: calc(50% - 10px);
+        }
+    }
+}
+
+
+#past-meetings {
+    section {
+        border-bottom: 1px solid #ddd;
+    }
+}
+
+
+
+.meeting-pic {
+    display: block;
+    margin: 1em auto;
+    &:after {
+        content: "View pic";
+    }
+    img {
+        display: none;
+    }
+}
+@media screen and (min-width: $on-palm + 1) {
+    .meeting-pic {
+        &:after {
+            content: "";
+        }
+        img {
+            margin: 0 auto;
+            max-width: 80%;
+            display: block;
+        }
+    }
+}
