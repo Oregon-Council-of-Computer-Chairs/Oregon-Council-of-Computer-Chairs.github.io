@@ -10,10 +10,6 @@ and group photo plans. Contact them to confirm your attendance and specify any
 special requirements for your meal. Discuss ride sharing on the
 [email list](https://it.engineering.oregonstate.edu/mailman/listinfo/occc).
 
---------------------
-
-## Past Meetings
-
 [Past meeting information and minutes](past/index.html)
 
 --------------------

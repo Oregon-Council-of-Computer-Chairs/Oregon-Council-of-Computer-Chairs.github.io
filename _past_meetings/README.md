@@ -16,4 +16,4 @@ Sample:
     date: 2021-04-09                                         #Required - must by yyyy-mm-dd format
     ---
 
-    We met via zoom due to COVID                             #Any notes/content
+    Notes about key decisions made by OCCC. New courses/degrees/etc...
