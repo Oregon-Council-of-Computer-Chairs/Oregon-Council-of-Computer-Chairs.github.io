@@ -19,7 +19,7 @@ Transfer Map and the ASOT-CS degree.
 ## Meetings
 
 * [Information about meetings and next meeting agenda](/meetings/)
-* [Previous meetings](/meetings/past/)
+* [Previous meetings](/meetings/past.html)
 
 </section><section markdown="1">
 
