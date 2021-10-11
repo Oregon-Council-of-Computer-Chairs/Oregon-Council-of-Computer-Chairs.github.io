@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
-domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: my-oregon-council-of-computer-chairs.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://oregon-council-of-computer-chairs.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
-repository: nil
+repository: https://github.com/Oregon-Council-of-Computer-Chairs/Oregon-Council-of-Computer-Chairs.github.io
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
