@@ -2,7 +2,7 @@
 title: Past Meetings
 
 # The past meetings page is built automatically
-# See README.md in _past_meetings
+# See README.md in _past_meetings 
 ---
 
 <div id="past-meetings" class="twocols">
