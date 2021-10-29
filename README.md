@@ -11,6 +11,25 @@ Any member of the OCCC is welcome to contribute to the site. Email the current
 chair (see [the index](/index.html) for contact info) or anyone listed on the
 [contributors](https://github.com/Oregon-Council-of-Computer-Chairs/Oregon-Council-of-Computer-Chairs.github.io/graphs/contributors) list of the repo for access.
 
+## Adding meetings
+
+To add information about a completed meeting, upload any supporting files (images, pdfs, etc...)
+to `assets/files/YEAR/`. Then add a markdown document to `_past_meetings`. See the [README in _past_meetings](_past_meetings/README.md)
+for instructions on content/formatting.
+
+## Editing pages
+
+Many editors offer markdown preview if you want to examine what you are producing.
+You can also use the GitHub web interface to edit individual pages and preview the
+markdown before committing. However, Jekyll supports advanced features that the
+GitHub website does not. Fancier pages that render correctly on github pages
+may not render correctly if previewed on GitHub.
+
+If you want do extensive editing, you may wish to install Jekyll to build pages in
+the exact same way that the GitHub pages system will. You can find instructions for
+doing so on the
+[GitHub Test site locally with Jekyll docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) page.
+
 ## Adding pages
 
 Any markdown file that does not begin with an underscore, and is not in a folder that begins with
@@ -29,19 +48,6 @@ as an &lt;h1&gt; tag.
     ---
     title: Sample page
     ---
-
-## Previewing changes
-
-Many editors offer markdown preview if you want to examine what you are producing.
-You can also use the GitHub web interface to edit individual pages and preview the
-markdown before committing. However, Jekyll supports advanced features that the
-GitHub website does not. Fancier pages that render correctly on github pages
-may not render correctly if previewed on GitHub.
-
-If you want do more extensive editing and preview your changes, you may wish to install Jekyll to
-build pages in the exact same way that the GitHub pages system will. You can find instructions for
-doing so on the
-[GitHub Test site locally with Jekyll docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
 ## Configuration and Site Navigation
 
