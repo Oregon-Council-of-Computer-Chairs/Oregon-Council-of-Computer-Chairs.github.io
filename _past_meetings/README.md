@@ -1,6 +1,6 @@
 # Past Meeting Records
 
-These files are used to automatically generate pages for past meetings. The YAML
+These files are used to automatically generate the page for past meetings. The YAML
 top matter between the `---`'s defines pieces of info used by the presentation template.
 
 Below that add any major actions from the meeting or important notes about it in Markdown

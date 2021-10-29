@@ -78,3 +78,6 @@ header_pages:
 collections:
   past_meetings:
     output: false
+  course_proposals:
+    output: false
+

@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
         }
     }
 
-    section {
+    section.meeting {
       border-bottom: 1px solid #ddd;
       display: flex;
       padding: 1rem 0;
@@ -111,13 +111,13 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
         }
       }
     } 
-
 }
 
-.course-table {
+.course-table, .course-proposal-table {
     td,
     th {
         padding: 5px;
+        text-align: center;
     }
     .bi {
         color: green;
