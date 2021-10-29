@@ -18,15 +18,15 @@ Transfer Map and the ASOT-CS degree.
 
 ## Meetings
 
-* [Information about meetings and next meeting agenda](/meetings/)
-* [Previous meetings](/meetings/past.html)
+* [Information about the next meeting](/meetings/)
+* [Previous meeting minutes](/meetings/past.md)
 
 </section><section markdown="1">
 
 ## Courses
 
-* [Common Course Numbers](/courses/)
-* Ipsum Lorem
+* [Course Information](/courses/)
+* [Common Course Numbers](/courses/common_numbers.md)
 
 ## Degrees
 
@@ -35,15 +35,13 @@ Transfer Map and the ASOT-CS degree.
 
 </section></div>
 
-## Contact information
+## Get Involved
 
-Most communication is done via the OCCC mailing list. To send an email to everyone on this list, address it to:
+There is no formal roster for the OCCC.
 
-occc@engr.orst.edu
+Communication and organization of meetings is done via the OCCC mailing list. So to get involved, please [subscribe to the mailing list](https://secure.engr.oregonstate.edu/mailman/listinfo/occc_). The subscription page also has a link to an archive of past mailings you can access once you sign up.
 
-To subscribe to the mailing list (or unsubscribe), visit [the OSU Listinfo site](https://secure.engr.oregonstate.edu/mailman/listinfo/occc_). At this site members of the list can also find an archive of prior posts.
-
-### Current Officers
+## Contact
 
 **OCCC Chair:** [Andrew Scholer - andrew.scholer@chemeketa.edu](andrew.scholer@chemeketa.edu)  
 **OCCC Secretary:** [Yong Bakos - yong.bakos@osucascades.edu](mailto:yong.bakos@osucascades.edu)

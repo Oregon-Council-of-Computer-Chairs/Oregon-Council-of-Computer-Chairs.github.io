@@ -1,5 +1,5 @@
 ---
-title: Meetings
+title: Meeting Info
 ---
 
 The OCCC has meetings during the Fall and Spring of each academic year, with the
@@ -9,11 +9,7 @@ and arranging the meeting room, food, parking,
 and group photo plans. Contact them to confirm your attendance and specify any
 special requirements for your meal.
 
---------------------
-
-## Past Meetings
-
-[Past meeting information and minutes](past.html)
+[Past meeting information and minutes](past.md)
 
 --------------------
 

@@ -25,6 +25,10 @@ markdown before committing. However, Jekyll supports advanced features that the
 GitHub website does not. Fancier pages that render correctly on github pages
 may not render correctly if previewed on GitHub.
 
+Because markdown file are converted to html and served in that format, internal
+links should either use Jekyll links (preferred): `{% link folder/file.md %}`
+or link html extension (`file.md` should be linked as `file.html`).
+
 If you want do extensive editing, you may wish to install Jekyll to build pages in
 the exact same way that the GitHub pages system will. You can find instructions for
 doing so on the
