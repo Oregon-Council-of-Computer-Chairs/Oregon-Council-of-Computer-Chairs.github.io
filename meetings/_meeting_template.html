@@ -1,0 +1,26 @@
+<section>
+    <div class="meeting-box">
+        <h2>{{ include.meeting.date | date: "%Y - %B %-d " }}</h2>
+
+        <div class="meeting-details">
+            <p><b>Location:</b> {{include.meeting.location}}</p>
+
+            {% assign content = include.meeting.content | strip_newlines  %}
+            {% if content != "" %}
+            <div class="meeting-contents">
+                {{include.meeting.content | markdownify }}
+            </div>
+            {% endif %}
+            <p>
+                {% if include.meeting.minutes %}
+                <a href="{{include.meeting.minutes}}">View minutes</a>
+                {% else %}
+                No minutes available
+                {% endif %}
+            </p>
+        </div>
+    </div>
+    {% if include.meeting.image %}
+    <a href="{{include.meeting.image}}" class="meeting-pic"><img src="{{include.meeting.image}}"></a>
+    {% endif %}
+</section>

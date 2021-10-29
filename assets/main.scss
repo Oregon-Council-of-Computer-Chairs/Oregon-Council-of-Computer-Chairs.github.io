@@ -5,11 +5,10 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
 
 // Customization of theme variables
-$content-width:    1000px;
-$on-palm:          600px;
-$on-laptop:        1000px;
-$brand-color:      #285eb4;
-
+$content-width: 1000px;
+$on-palm: 600px;
+$on-laptop: 1000px;
+$brand-color: #285eb4;
 
 @import "minima";
 
@@ -18,33 +17,34 @@ $brand-color:      #285eb4;
     padding: 0;
 }
 
-
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+  margin-bottom: 10px;
+}
 
 .post-content {
     h4 {
         font-size: 1rem;
         font-weight: bold;
         margin-bottom: 0;
-    } 
-
+    }
     h4 + h4 {
         margin-top: 15px;
     }
-
     hr {
         margin: 10px 0;
-        border: 0; border-top: 1px solid #ddd;
+        border: 0;
+        border-top: 1px solid #ddd;
     }
-
     a {
         font-weight: 600;
     }
 }
 
-.site-header, .site-nav {
+.site-header,
+.site-nav {
     background-color: darken($brand-color, 20%);
-    
-    .site-title, .page-link {
+    .site-title,
+    .page-link {
         color: white;
     }
 }
@@ -53,31 +53,29 @@ $brand-color:      #285eb4;
     fill: white;
 }
 
-@media screen and (min-width: $on-palm + 1) {
+@media screen and (min-width: $on-palm+1) {
     .twocols {
         display: flex;
         gap: 10px 20px;
         flex-wrap: wrap;
         margin-bottom: 15px;
-
         section {
             width: calc(50% - 10px);
         }
     }
 }
 
-
 #past-meetings {
     section {
         border-bottom: 1px solid #ddd;
+        padding: 1rem 0;
+    }
+    h3 {
+        font-size: 1.2em;
     }
 }
 
-
-
 .meeting-pic {
-    display: block;
-    margin: 1em auto;
     &:after {
         content: "View photo";
     }
@@ -85,24 +83,42 @@ $brand-color:      #285eb4;
         display: none;
     }
 }
-@media screen and (min-width: $on-palm + 1) {
+
+@media screen and (min-width: $on-palm+1) {
     .meeting-pic {
         &:after {
             content: "";
         }
         img {
-            margin: 0 auto;
-            max-width: 80%;
-            display: block;
+            display: inline-block;
         }
     }
+
+    section {
+      border-bottom: 1px solid #ddd;
+      display: flex;
+      padding: 1rem 0;
+
+      .meeting-box {
+        margin-right: 1rem;
+        flex: 1 1 calc(60% - 4rem);
+      }
+      .meeting-pic {
+        flex: 1 1 calc(40% - 4rem);
+
+        img {
+          -margin: 1rem;
+        }
+      }
+    } 
+
 }
 
 .course-table {
-    td, th {
+    td,
+    th {
         padding: 5px;
     }
-
     .bi {
         color: green;
         position: relative;

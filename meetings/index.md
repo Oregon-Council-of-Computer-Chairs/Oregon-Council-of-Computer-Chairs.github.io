@@ -7,8 +7,11 @@ host and dates selected at the previous meeting. The host is responsible for
 handling RSVPs via the [email list](https://it.engineering.oregonstate.edu/mailman/listinfo/occc)
 and arranging the meeting room, food, parking,
 and group photo plans. Contact them to confirm your attendance and specify any
-special requirements for your meal. Discuss ride sharing on the
-[email list](https://it.engineering.oregonstate.edu/mailman/listinfo/occc).
+special requirements for your meal.
+
+--------------------
+
+## Past Meetings
 
 [Past meeting information and minutes](past.html)
 

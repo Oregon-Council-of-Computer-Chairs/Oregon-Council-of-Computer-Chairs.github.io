@@ -1,10 +1,12 @@
 # Past Meeting Records
 
 These files are used to automatically generate pages for past meetings. The YAML
-top matter defines pieces of info used by the presentation template. Freeform
-content can be added below the `---`.
+top matter between the `---`'s defines pieces of info used by the presentation template.
 
-Any file should be added to the `/assets/files/` folder and organized by year.
+Below that add any major actions from the meeting or important notes about it in Markdown
+format.
+
+Any media files should be added to the `/assets/files/` folder and organized by year.
 
 Sample:
 
@@ -16,4 +18,9 @@ Sample:
     date: 2021-04-09                                         #Required - must by yyyy-mm-dd format
     ---
 
-    Notes about key decisions made by OCCC. New courses/degrees/etc...
+    **Major actions:**  
+    * Notes about key decisions made by OCCC. New courses/degrees/etc...
+    * Use markdown for formatting
+
+    **Other notes:**
+    [Video available](http://fake.com/fake.mp4)
