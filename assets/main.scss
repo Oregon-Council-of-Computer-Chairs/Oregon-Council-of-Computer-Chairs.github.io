@@ -18,7 +18,15 @@ $brand-color: #285eb4;
 }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 20px;
+}
+
+h1.post-title {
+    margin-top: 0px;
 }
 
 .post-content {
@@ -123,5 +131,21 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
         color: green;
         position: relative;
         top: -1px;
+    }
+}
+
+
+.feature-pic {
+    float: right;
+    max-width: 50%;
+    border: 1px solid #aaa;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+@media screen and (min-width: $on-palm+1) {
+    .feature-pic {
+        max-width: 250px;
     }
 }
