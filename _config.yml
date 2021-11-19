@@ -63,7 +63,7 @@ gems:
 
 # What pages to make top level navigation options
 header_pages:
-  - courses/index.md
+  - courses/common_numbers.md
   - meetings/index.md
 
 # Treat files in the directory meetings/_past as a collection

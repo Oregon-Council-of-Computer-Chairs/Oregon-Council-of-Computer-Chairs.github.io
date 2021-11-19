@@ -27,8 +27,9 @@ Transfer Map and the ASOT-CS degree.
 
 ## Courses
 
-* [Course Information]({% link courses/index.md %})
 * [Common Course Numbers]({% link courses/common_numbers.md %})
+* [New Course Number Proposals]({% link courses/proposals.md %})
+* [CS Core Sequence Outcomes]({% link courses/cs_outcomes.md %})
 
 ## Degrees
 
