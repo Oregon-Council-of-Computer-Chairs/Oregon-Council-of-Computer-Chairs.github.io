@@ -2,6 +2,15 @@
 title: Common Course Numbers
 
 #Edit this list to add new course numbers
+#Expected format:
+#-
+#    number: 100
+#    title: Computer Careers Exploration
+#    outline-url: /assets/files/courses/cs100.pdf    #Optional for old, expected for new courses
+#    credits: 4
+#    date: 2001-10-19                                #Date approved by OCCC
+#    aaot: true                                      #Only if approved as an AAOT math/science/CS course
+
 courses:
 -
     number: 100
@@ -31,6 +40,7 @@ courses:
 -
     number: 121
     title: Intro to Information Systems and Programming
+    outline-url: /assets/files/course_outlines/CIS121.docx
     credits: 4
     date: 2020-04-24
     aaot: true
@@ -137,6 +147,7 @@ courses:
 -
     number: 175
     title: Introduction to SQL
+    outline-url: /assets/files/course_outlines/CIS175.docx
     credits: 4
     date: 2021-10-21
 -
@@ -212,6 +223,7 @@ courses:
 -
     number: 205
     title: System Programming and Architecture
+    outline-url: /courses/cs205.html
     credits: 4
     date: 2021-04-23
 -
@@ -401,6 +413,7 @@ courses:
 -
     number: 290
     title: Web Application Development
+    outline-url: /assets/files/course_outlines/CS290.docx
     credits: 4
     date: 2014-05-09
 -
@@ -431,13 +444,32 @@ courses:
 
 ---
 
-Below is the current list of approved course numbers. Course numbers ending with the 'x' suffix means that a college may attach their own letter(s) to signify the application or language being taught. The course prefix may also vary slightly, depending on individual college requirements ([2003 Agreement on CIS/CS listings](prefix_agreement.md)), but should signify the Computer Science or Computer Information Systems discipline. 200-level courses are considered to have a 100-level course(s) prerequisite.
+One of the tasks/goals of the OCCC is the development, maintenance, and coordination of a
+list of common course numberings.
 
-Courses with a green checkbox - <i class="bi bi-check-square-fill" style="color: green"></i> - have been approved for the "AAOT" and the "Oregon Transfer Module" Science/Mathematics/Computer Science distribution requirement as non-lab science courses. All other courses may be used as general electives. [approved: 10/21/2005]
+To propose a new number for the OCCC approved common
+course numbers, visit the [OCCC course number proposal]({% link courses/proposals.md %})
+page. Proposals should be made two months prior to the next OCCC meeting.
 
-A definition of Computer Literacy as been approved as the competencies and outcomes specified by the IC3 (Internet and Computing Core Certification). It was also approved that CS/CIS 120 is to be the course that will include these competencies and outcomes. [approved: 10/21/2005]
+Below is the current list of approved course numbers. Course numbers ending with the 'x'
+suffix means that a college may attach their own letter(s) to signify the application or
+language being taught. The course prefix may also vary slightly, depending on individual
+college requirements ([2003 Agreement on CIS/CS listings](prefix_agreement.md)), but should
+signify the Computer Science or Computer Information Systems discipline. 200-level courses
+are considered to have a 100-level course(s) prerequisite.
+
+Courses with a green checkbox - <i class="bi bi-check-square-fill" style="color: green"></i> -
+have been approved for the AAOT and the Oregon Transfer Module Science/Mathematics/Computer
+Science distribution requirement as non-lab science courses. (See note 5 in the AAOT page of the
+[CCWD Handbook](http://handbook.ccwdwebforms.net/handbook/definitions/associate-degrees/associates-of-arts-oregon-transfer-(aa-ot))).
+All other courses may be used as general electives. [approved: 10/21/2005]
+
+A definition of Computer Literacy as been approved as the competencies and outcomes specified by
+the IC3 (Internet and Computing Core Certification). It was also approved that CS/CIS 120 is to
+be the course that will include these competencies and outcomes. [approved: 10/21/2005]
 
 ## Approved Course Numbers
+
 <table class="course-table">
 <tr>
     <th>Number</th><th>Title</th><th>Max. Credits</th><th>Date Approved</th>
@@ -445,7 +477,12 @@ A definition of Computer Literacy as been approved as the competencies and outco
 {% for course in page.courses %}
 <tr class="{{row_class}}">
     <td>{{ course.number }}</td>
-    <td>{{ course.title }}
+    <td>
+{% if course.outline-url %}
+<a href="{{ course.outline-url }}">{{ course.title }}</a>
+{% else %}
+{{ course.title }}
+{% endif %}
 {% if course.aaot %}
 <i class="bi bi-check-square-fill"></i>
 {% endif %}

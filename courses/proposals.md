@@ -3,7 +3,7 @@ title: Course Proposals
 
 #Edit this list to add new course proposals
 #Leave date_approved blank until the course is approved
-#Upload any files need to /assets/files/YEAR/
+#Add outline if available to /assets/files/course_outlines/
 courses:
 -
     number: CS290
@@ -55,13 +55,26 @@ courses:
     institution: Lane Community College
     date_submitted: 2021-10-18
     date_approved: 2021-10-22
+-
+    number: CS205
+    title: System Programming and Architecture
+    outline_link: /assets/files/2021/CS205Outline.docx
+    max_credits: 4
+    submitter: Andrew Scholer
+    submitter_email: ascholer@chemeketa.edu
+    institution: OCCC
+    date_submitted: 2021-03-09
+    date_approved: 2021-04-23
+
 ---
 
-This page is used to maintain a history of course number proposals, including descriptions, outcomes, and approval dates.
+This page is used to maintain a history of course number proposals, including descriptions,
+outcomes, and approval dates.
 
 To make a proposal:
 
-* Update this page. If you do not have write access to the github repo, send the OCCC chair a course outline including description and outcomes. ([Check the homepage for chair](../index.md))
+* Update this page. If you do not have write access to the github repo, send the OCCC chair a
+    course outline including description and outcomes. ([Check the homepage for the current chair]({% link index.md %}))
 * Once it is posted, announce the new proposal to [the OCCC mailing list](https://secure.engr.oregonstate.edu/mailman/listinfo/occc_)
 
 Please try to make proposals two months prior to the next OCCC meeting.
@@ -84,7 +97,7 @@ Please try to make proposals two months prior to the next OCCC meeting.
     <td>{{ course.title }}</td>
     {% endif %}
     <td>{{ course.max_credits }}</td>
-    <td><a href="mailto:{{course.submitter_email}}">{{ course.submitter }}</a></td>
+    <td><a href="mailto:{{course.submitter_email}}">{{ course.submitter }}</a> <br> {{course.institution}}</td>
     <td>{{ course.date_submitted }}</td>
     <td>{{ course.date_approved }}</td>
 </tr>
