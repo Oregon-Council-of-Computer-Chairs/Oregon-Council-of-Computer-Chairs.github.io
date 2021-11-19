@@ -9,7 +9,7 @@ courses:
     number: CS290
     title: Web application development
     outline_link: /assets/files/2014/CS290.docx
-    max_credits: 4
+    credits: 4
     submitter: Calvin Hughes
     submitter_email: calvin.hughes@oregonstate.edu
     institution: OSU
@@ -19,7 +19,7 @@ courses:
     number: CIS242
     title: Technology Entrepreneurship
     outline_link: 
-    max_credits: 3
+    credits: 3
     submitter: Chris Williamson
     submitter_email: cwilliamson@socc.edu
     institution: Southern Oregon Community College
@@ -29,7 +29,7 @@ courses:
     number: CIS165
     title: Mobile application development
     outline_link: 
-    max_credits: 4
+    credits: 4
     submitter: Chris Williamson
     submitter_email: cwilliamson@socc.edu
     institution: Southern Oregon Community College
@@ -39,7 +39,7 @@ courses:
     number: CIS121
     title: Intro to Information Systems and Programming
     outline_link: /assets/files/2020/CIS121.docx
-    max_credits: 4
+    credits: 4
     submitter: Marc Goodman
     submitter_email: marc.goodman@pcc.edu
     institution: Portland Community College
@@ -49,7 +49,7 @@ courses:
     number: CS175
     title: Introduction to SQL
     outline_link: /assets/files/2021/Introduction_to_SQL.docx
-    max_credits: 4
+    credits: 4
     submitter: Joseph Colton
     submitter_email: coltonj@lanecc.edu
     institution: Lane Community College
@@ -59,7 +59,7 @@ courses:
     number: CS205
     title: System Programming and Architecture
     outline_link: /assets/files/2021/CS205Outline.docx
-    max_credits: 4
+    credits: 4
     submitter: Andrew Scholer
     submitter_email: ascholer@chemeketa.edu
     institution: OCCC
@@ -96,7 +96,7 @@ Please try to make proposals two months prior to the next OCCC meeting.
     {% else %}
     <td>{{ course.title }}</td>
     {% endif %}
-    <td>{{ course.max_credits }}</td>
+    <td>{{ course.credits }}</td>
     <td><a href="mailto:{{course.submitter_email}}">{{ course.submitter }}</a> <br> {{course.institution}}</td>
     <td>{{ course.date_submitted }}</td>
     <td>{{ course.date_approved }}</td>
