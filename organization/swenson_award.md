@@ -23,10 +23,11 @@ The David Swenson Award was created to recognize of scholarship, leadership, and
 
 * Nominees can be suggested by any OCCC member. Nominee must have served as OCCC chair.
 * An award committee consisting of available past award recipients and the current OCCC chair will
-review nominees and select at most one per year. Preference should be toward a Community College 
+review nominees and select at most one per year. Preference should be toward a Community College
 member over a 4-year University member.
-* Recipients will be recognized at the next meeting of the OCCC and via [a letter]({% link organization/swenson_award_template.md %}) 
-sent to the president of their instution.
+* Recipients will be recognized at the next meeting of the OCCC and via
+  [a letter]({% link organization/swenson_award_template.md %})
+  sent to the president of their instution.
 
 ## David Swenson
 

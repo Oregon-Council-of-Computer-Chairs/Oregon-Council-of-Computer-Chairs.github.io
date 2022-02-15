@@ -12,9 +12,9 @@ of information, both of which have not been updated since at least 2011, exist o
 the old wiki:
 
 * [A collection of pages contributed by memebers with notes covering CS260 related topics](http://www.occcwiki.org/index.php/Contents:_CS2).
-* [Curriculum developed as part of trying to introduce a High School Discrete Math course in Oregon](http://www.occcwiki.org/index.php/HS_Discrete_Math_(CS0)). 
+* [Curriculum developed as part of trying to introduce a High School Discrete Math course in Oregon](http://www.occcwiki.org/index.php/HS_Discrete_Math_(CS0)).
 
-## Past Information Managers 
+## Past Information Managers
 
 Past versions of the OCCC website were maintained and managed by:
 
