@@ -7,13 +7,24 @@ classes: 160, 161, 162, 205, and 260.  However, the MTM does not define exactly 
 courses look like. To fill this gap, a collection of efforts were undertaken to help institutions
 and instructors make sure that students with credits for these classes have the expected knowledge.
 
+## CS 160
+
+[CS 160 Outcomes]({% link /assets/files/course_outlines/CS160.pdf %})
+
+Work on outcomes for CS160 began in 2021 after completion of the
+CS161/162/260 outcomes. A working group created this document to outline
+our common beliefs and expectations for what should be covered in a CS160
+course within the CS Major Transfer Map. These outcomes were finalized in 2022.
+
+Andrew Scholer at [ascholer@chemeketa.edu](mailto:ascholer@chemeketa.edu).
+
 ## CS 161 / 162 / 260
 
 [CS 161-260 Outcomes]({% link /assets/files/course_outlines/CS_Core.pdf %})
 
 In 2020, the OCCC formed a working group to work on outcomes for CS161/162/260.  
 The goal for this project was to provide descriptive information about what is
-commonly expected to be covered in this sequence. 
+commonly expected to be covered in this sequence.
 
 The ordering and location of topics within these three courses often varies depending
 on the presence or absence of other courses in the local curriculum, the programming
@@ -24,11 +35,6 @@ started in CS162). These outcomes were developed at a much more granular level t
 typical course outline might contain in an effort to provide clear guidance about expectations.
 
 For access to the master document, contact Andrew Scholer at [ascholer@chemeketa.edu](mailto:ascholer@chemeketa.edu).
-
-## CS 160
-
-Work on outcomes for CS160 begun in Fall 2021. To get involved, contact
-Andrew Scholer at [ascholer@chemeketa.edu](mailto:ascholer@chemeketa.edu).
 
 ## CS205
 
