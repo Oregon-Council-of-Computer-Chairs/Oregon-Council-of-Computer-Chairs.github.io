@@ -33,8 +33,20 @@ Transfer Map and the ASOT-CS degree.
 
 ## Degrees
 
-* Ipsum
-* Lorem
+* [CS Major Transfer Map] (MTM) and  
+  [Associate of Science Transfer degree]  (AST)  
+  Statewide transfer framework and degree approved in 2021. Provides a pathway for transfer students
+  to start Jr year at participating universities with a 2-year pathway to graduation in CS.
+
+* [ASOT - CS]  
+  Statewide degree developed in 2014. Provides the same guarantees as the AAOT but also includes math
+  and CS courses likely needed to study CS. Largely made obsolete by the MTM and AST degree.
+
+    [CS Major Transfer Map]:https://www.oregon.gov/highered/policy-collaboration/Documents/Transfer-Credit/2998/Statewide%20Articulation%20Agreement,%20Major%20Transfer%20Map%20in%20Computer%20Science.pdf
+
+    [Associate of Science Transfer degree]:https://www.oregon.gov/highered/institutions-programs/ccwd/Documents/Transfer%20Documents%20for%20Academic%20Program%20Approval%20Page/AAT.AST%20Master%20Document%20with%20MTMs.pdf
+
+    [ASOT - CS]:https://www.oregon.gov/highered/institutions-programs/ccwd/SiteAssets/Pages/community-college-program-approval/Associate%20of%20Science%20Oregon%20Transfer%20in%20Computer%20Science%20(ASOT-CS).docx
 
 </section></div>
 
