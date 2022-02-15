@@ -13,6 +13,10 @@ $brand-color: #285eb4;
 @import "minima";
 
 //Override styles
+html {
+    overflow-y: scroll;
+}
+
 .site-footer {
     padding: 0;
 }
@@ -25,8 +29,19 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 20px;
 }
 
-h1.post-title {
+h1.post-title, h1.page-heading {
     margin-top: 0px;
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+a {
+    font-weight: 600;
 }
 
 .post-content {
@@ -42,9 +57,6 @@ h1.post-title {
         margin: 10px 0;
         border: 0;
         border-top: 1px solid #ddd;
-    }
-    a {
-        font-weight: 600;
     }
 }
 
