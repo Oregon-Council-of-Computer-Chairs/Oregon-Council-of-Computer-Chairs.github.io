@@ -19,12 +19,12 @@ special requirements for your meal.
 
 #### When
 
-Friday, October 22, 2021
+Friday, April 22, 2022
 
 #### Where
 
-Online Video Conference - Zoom link will be distributed via the
-[mailing list](https://it.engineering.oregonstate.edu/mailman/listinfo/occc)
+Online Video Conference - Zoom  
+https://chemeketa.zoom.us/j/94381685032
 
 #### Host
 
@@ -37,26 +37,22 @@ No In-Person Venue - Online Only
 
 Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@chemeketa.edu).
 
-#### 0800 Informal Discussions
+#### 0830 Informal Discussions
 
-#### 0830 News From The Colleges
+#### 0900 ABET Accreditation for 2-Year Institutions
 
-Introductions and updates
+Elizabeth K. Hawthorne - ACM Education Board Co-Chair
 
-#### 1030 Update on ODE/AWS partnership
+#### 0930 OCCC Business
 
-John Bjerke - AWS Academy Program
+* Introduce [New website](https://oregon-council-of-computer-chairs.github.io/)
 
-#### OCCC Business and Group Discussion
+* CS outcomes work update
 
-* SB233
+#### 1000 News From The Colleges
 
-#### 1200 Lunch Break
+Introductions and brief updates from around the state
 
-#### 1300 Workgroup Sessions
+#### 1300 Workgroup Sessions?
 
-* Lower Division CS Outcomes Workgroup
-
-#### 1430 Workgroup Sessions  
-
-* OER CS 161-260 with Runestone
+#### 1430 Workgroup Sessions?
