@@ -8,7 +8,7 @@ courses:
 -
     number: CS290
     title: Web application development
-    outline_link: /assets/files/2014/CS290.docx
+    outline_link: /assets/files/course_outlines/CS290.docx
     credits: 4
     submitter: Calvin Hughes
     submitter_email: calvin.hughes@oregonstate.edu
@@ -38,7 +38,7 @@ courses:
 -
     number: CIS121
     title: Intro to Information Systems and Programming
-    outline_link: /assets/files/2020/CIS121.docx
+    outline_link: /assets/files/course_outlines/CIS121.docx
     credits: 4
     submitter: Marc Goodman
     submitter_email: marc.goodman@pcc.edu
@@ -48,7 +48,7 @@ courses:
 -
     number: CS175
     title: Introduction to SQL
-    outline_link: /assets/files/2021/Introduction_to_SQL.docx
+    outline_link: /assets/files/course_outlines/CIS175.docx
     credits: 4
     submitter: Joseph Colton
     submitter_email: coltonj@lanecc.edu
@@ -58,7 +58,7 @@ courses:
 -
     number: CS205
     title: System Programming and Architecture
-    outline_link: /assets/files/2021/CS205Outline.docx
+    outline_link: /assets/files/course_outlines/CS205.pdf
     credits: 4
     submitter: Andrew Scholer
     submitter_email: ascholer@chemeketa.edu
