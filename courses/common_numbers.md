@@ -465,7 +465,7 @@ are considered to have a 100-level course(s) prerequisite.
 Courses with a green checkbox - <i class="bi bi-check-square-fill" style="color: green"></i> -
 have been approved for the AAOT and the Oregon Transfer Module Science/Mathematics/Computer
 Science distribution requirement as non-lab science courses. (See note 5 in the AAOT page of the
-[CCWD Handbook](http://handbook.ccwdwebforms.net/handbook/definitions/associate-degrees/associates-of-arts-oregon-transfer-(aa-ot))).
+[CCWD Handbook](https://www.oregon.gov/highered/institutions-programs/ccwd/Pages/cc-program-approval-resources.aspx)).
 All other courses may be used as general electives. [approved: 10/21/2005]
 
 A definition of Computer Literacy as been approved as the competencies and outcomes specified by
