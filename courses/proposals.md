@@ -75,7 +75,7 @@ To make a proposal:
 
 * Update this page. If you do not have write access to the github repo, send the OCCC chair a
     course outline including description and outcomes. ([Check the homepage for the current chair]({% link index.md %}))
-* Once it is posted, announce the new proposal to [the OCCC mailing list](https://secure.engr.oregonstate.edu/mailman/listinfo/occc_)
+* Once it is posted, announce the new proposal to [the OCCC mailing list](https://it.engineering.oregonstate.edu/mailman/listinfo/occc)
 
 Please try to make proposals two months prior to the next OCCC meeting.
 
