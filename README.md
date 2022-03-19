@@ -8,7 +8,7 @@ published on github pages after a short delay.
 ## Access & Help
 
 Any member of the OCCC is welcome to contribute to the site. Email the current
-chair (see [the index](blob/master/index.md) for contact info) or anyone listed on the
+chair (see [the index](index.md) for contact info) or anyone listed on the
 [contributors](https://github.com/Oregon-Council-of-Computer-Chairs/Oregon-Council-of-Computer-Chairs.github.io/graphs/contributors) list of the repo for access.
 
 [Andrew Scholer](mailto:ascholer@chemeketa.edu) did the initial site setup. Technical
@@ -58,7 +58,7 @@ as an &lt;h1&gt; tag.
 
 ## Configuration and Site Navigation
 
-The file [_config.yml](blob/master/_config.yml) contains high level options for the site.
+The file [_config.yml](_config.yml) contains high level options for the site.
 In particular, this is where the top navigation links are set from.
 
 ## Theme
