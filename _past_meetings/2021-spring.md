@@ -1,7 +1,7 @@
 ---
 title: Spring 2021
-image: /assets/files/2021/Occc-spring21.png
-minutes: /assets/files/2021/Minutes_2021_Spring.pdf
+image: /assets/files/2021/20210409.png
+minutes: /assets/files/2021/20210409_minutes.pdf
 location: Zoom
 date: 2021-04-09
 ---
