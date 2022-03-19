@@ -2,7 +2,7 @@
 title: Historical Chairs
 ---
 
-The OCCC Chair is responsible for scheduling and running [meetings](meetings/index.md) of the body each Fall and Spring.
+The OCCC Chair is responsible for scheduling and running [meetings]({% link meetings/index.md %}) of the body each Fall and Spring.
 
 Chairs currently serve two year terms and are elected other year at the spring meeting. 
 
