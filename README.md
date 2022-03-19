@@ -8,7 +8,7 @@ published on github pages after a short delay.
 ## Access & Help
 
 Any member of the OCCC is welcome to contribute to the site. Email the current
-chair (see [the index](/index.html) for contact info) or anyone listed on the
+chair (see [the index](https://github.com/Oregon-Council-of-Computer-Chairs/Oregon-Council-of-Computer-Chairs.github.io/blob/master/index.md) for contact info) or anyone listed on the
 [contributors](https://github.com/Oregon-Council-of-Computer-Chairs/Oregon-Council-of-Computer-Chairs.github.io/graphs/contributors) list of the repo for access.
 
 [Andrew Scholer](mailto:ascholer@chemeketa.edu) did the initial site setup. Technical
