@@ -110,7 +110,7 @@ member_schools:
         department: CS - Chair
         email: mpj@pdx.edu
 -
-    name: Rouge CC
+    name: Rogue CC
 -
     name: Southern Oregon University
     contacts:
