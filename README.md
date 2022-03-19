@@ -8,7 +8,7 @@ published on github pages after a short delay.
 ## Access & Help
 
 Any member of the OCCC is welcome to contribute to the site. Email the current
-chair (see [the index](https://github.com/Oregon-Council-of-Computer-Chairs/Oregon-Council-of-Computer-Chairs.github.io/blob/master/index.md) for contact info) or anyone listed on the
+chair (see [the index](blob/master/index.md) for contact info) or anyone listed on the
 [contributors](https://github.com/Oregon-Council-of-Computer-Chairs/Oregon-Council-of-Computer-Chairs.github.io/graphs/contributors) list of the repo for access.
 
 [Andrew Scholer](mailto:ascholer@chemeketa.edu) did the initial site setup. Technical
@@ -58,7 +58,7 @@ as an &lt;h1&gt; tag.
 
 ## Configuration and Site Navigation
 
-The file [_config.yml](config.yml) contains high level options for the site. 
+The file [_config.yml](blob/master/_config.yml) contains high level options for the site.
 In particular, this is where the top navigation links are set from.
 
 ## Theme
@@ -67,8 +67,7 @@ Documentation for customizing the theme (mimia) can be found here:
 https://www.rubydoc.info/gems/minima/2.5.1#Customization
 
 The source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[https://github.com/jekyll/minima](https://github.com/jekyll/minima)
 
-> **Note:**  The master branch of this project is often ahead of the version of minima
+> **Note:** The master branch of this project is often ahead of the version of minima
 > currently available via ruby gems and in use on this site.
