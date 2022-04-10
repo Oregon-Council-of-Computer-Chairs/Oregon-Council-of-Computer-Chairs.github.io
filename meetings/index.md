@@ -43,15 +43,15 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 
 Elizabeth K. Hawthorne - ACM Education Board Co-Chair
 
-#### 0930 OCCC Business
-
-* Introduce [New website](https://oregon-council-of-computer-chairs.github.io/)
-
-* CS outcomes work update
-
-#### 1000 News From The Colleges
+#### 0930 News From The Colleges
 
 Introductions and brief updates from around the state
+
+#### 1130 OCCC Business
+
+* Schedule Next Meeting
+* Introduce [New website](https://oregon-council-of-computer-chairs.github.io/)
+* CS outcomes work update
 
 #### 1300 Workgroup Sessions?
 
