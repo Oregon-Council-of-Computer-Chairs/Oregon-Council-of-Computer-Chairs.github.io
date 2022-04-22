@@ -24,7 +24,7 @@ Friday, April 22, 2022
 #### Where
 
 Online Video Conference - Zoom  
-https://chemeketa.zoom.us/j/94381685032
+https://chemeketa.zoom.us/j/97211318560
 
 #### Host
 
