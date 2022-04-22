@@ -42,8 +42,8 @@ For access to the master document, contact Andrew Scholer at [ascholer@chemeketa
 developed as part of the Computer Science Major Transfer Map (MTM-CS) to provide a single course within
 the MTM acceptable to OSU, PSU and UofO covering the basics of low level computing.
 
-It is a part of the OSU/PSU/UofO variant of the CS-MTM and will fulfill the
-necessary requirement of CS201 at PSU or CS271 at OSU. It is also accepted in lieu of the required
+It is a part of the OSU/PSU/UofO variant of the CS-MTM and will fulfill a required course at each
+institution (PSU: CS201, OSU: CS271, UofO: CIS314). It is also accepted in lieu of the required
 CS271 at WOU.
 
 Any offering of CS205 is expected to use the outcomes described in the
