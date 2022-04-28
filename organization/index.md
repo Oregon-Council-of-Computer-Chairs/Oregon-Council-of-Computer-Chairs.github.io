@@ -26,6 +26,7 @@ member_schools:
     contacts:
     -
         name: Rick Carino
+        department: CIS
         email: rcarino@clackamas.edu
 -
     name: Clatsop CC
