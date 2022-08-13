@@ -36,10 +36,14 @@ TBA
 
 Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@chemeketa.edu).
 
-#### Informal Discussions
+#### 8:00 Informal Discussions
 
-#### News From The Colleges
+#### 9:00 News From The Colleges
 
-#### OCCC Business
+#### 11:30 OCCC Business
 
-#### Workgroup Sessions?
+#### 12:00 Lunch
+
+#### 1:00 Breakout session - Tech Apprenticeship
+
+New statewide opportunity. Presentation from Robin Taylor - Chemeketa Dean of Business and Technology.
