@@ -23,14 +23,14 @@ Friday, October 21, 2022
 
 #### Where
 
-Oregon State University - Room TBA
+Oregon State University - Johnson Hall, 221
 
 #### Host
 
 [Brett Jeter](mailto:Brett.Jeter@oregonstate.edu)
 
-**Room, parking, food**  
-TBA
+**Parking, food**  
+Please RSVP to the host for a parking pass
 
 ### Agenda
 
@@ -41,6 +41,9 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 #### 9:00 News From The Colleges
 
 #### 11:30 OCCC Business
+
+* Articulation maintenance within the MTM-CS
+  *What is HECC responsibility handled by MTM maintenance group? What is OCCC's role?*
 
 #### 12:00 Lunch
 
