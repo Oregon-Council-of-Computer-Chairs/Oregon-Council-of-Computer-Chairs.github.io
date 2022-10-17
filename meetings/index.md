@@ -42,11 +42,12 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 
 #### 11:30 OCCC Business
 
-* Articulation maintenance within the MTM-CS
-  *What is HECC responsibility handled by MTM maintenance group? What is OCCC's role?*
+* Articulation maintenance within the MTM-CS  
+  *What is HECC responsibility handled by MTM maintenance group?  
+  What is OCCC's role?*
 
 #### 12:00 Lunch
 
 #### 1:00 Breakout session - Tech Apprenticeship
 
-New statewide opportunity. Presentation from Robin Taylor - Chemeketa Dean of Business and Technology.
+Two Oregon community college's are exploring the option of an apprenticeship program for students in CIS. This program would include the development of an industry committee to oversee the program and the alignment of training hours to community college coursework. We will provide a brief overview of apprenticeship and the work done so far, but this session will primarily be an opportunity for you to weigh in on the Tech Apprenticeship concept.
