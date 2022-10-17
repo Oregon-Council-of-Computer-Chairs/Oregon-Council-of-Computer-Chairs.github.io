@@ -23,7 +23,7 @@ Friday, October 21, 2022
 
 #### Where
 
-Oregon State University - Johnson Hall, 221
+[Oregon State University - Johnson Hall, 221](https://www.google.com/maps/place/Johnson+Hall/@44.5678799,-123.2796073,15z/data=!4m2!3m1!1s0x0:0x1b54f09efe25db41?sa=X&ved=2ahUKEwjxk7mlhOj6AhXULH0KHbmzDrUQ_BJ6BAhnEAU)
 
 #### Host
 
