@@ -27,7 +27,7 @@ Friday, October 21, 2022
 
 *Remote Connection Info:*
 
-https://oregonstate.zoom.us/j/98194357990?pwd=M2pkLzRqUnVHQzBSQUtqNUFFa1RrQT09
+[https://oregonstate.zoom.us/j/98194357990?pwd=M2pkLzRqUnVHQzBSQUtqNUFFa1RrQT09](https://oregonstate.zoom.us/j/98194357990?pwd=M2pkLzRqUnVHQzBSQUtqNUFFa1RrQT09)
 
 Password: 192769
 
