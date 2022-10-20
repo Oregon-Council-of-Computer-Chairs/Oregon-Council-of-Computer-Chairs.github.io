@@ -25,6 +25,16 @@ Friday, October 21, 2022
 
 [Oregon State University - Johnson Hall, 221](https://www.google.com/maps/place/Johnson+Hall/@44.5678799,-123.2796073,15z/data=!4m2!3m1!1s0x0:0x1b54f09efe25db41?sa=X&ved=2ahUKEwjxk7mlhOj6AhXULH0KHbmzDrUQ_BJ6BAhnEAU)
 
+*Remote Connection Info:*
+
+https://oregonstate.zoom.us/j/98194357990?pwd=M2pkLzRqUnVHQzBSQUtqNUFFa1RrQT09
+
+Password: 192769
+
+Phone Dial-In Information
++1 971 247 1195 US (Portland)
+Meeting ID: 981 9435 7990
+
 #### Host
 
 [Brett Jeter](mailto:Brett.Jeter@oregonstate.edu)
