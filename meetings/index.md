@@ -50,7 +50,7 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 
 #### 9:00 News From The Colleges
 
-#### 11:30 Discussions
+#### 11:15 Discussions
 
 * Articulation maintenance within the MTM-CS  
   *What is HECC responsibility handled by MTM maintenance group?  
@@ -58,6 +58,10 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
   
 * Math prereqs for lower level CS courses  
   *What prereqs are schools using?*
+
+#### 11:45 OCCC Business
+
+Next meeting
 
 #### 12:00 Lunch
 
