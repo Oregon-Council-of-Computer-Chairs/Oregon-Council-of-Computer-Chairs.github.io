@@ -45,6 +45,7 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 #### 11:30 OCCC Business
 
 * Elections
+* Dave Swenson Award
 
 #### 12:00 Lunch
 
