@@ -49,6 +49,10 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 
 #### 1:00 Breakout sessions / Discussions
 
+* **Connecting Community College Students to Regional Universities:**   
+    The MTM makes the mechanics of transferring to a distant regional university much easier to manage for both students and institutions. But it does not solve problems around student awareness of different programs. In what ways could we work together to better inform students of the variety of
+    options they have?
+
 * **Teaching Intro CS in the Post ChatGPT World:**   
     Let's try to move past "the sky is falling, we need more in person assessment". How can code
     generating/explaining tools be used productively in CS education?
