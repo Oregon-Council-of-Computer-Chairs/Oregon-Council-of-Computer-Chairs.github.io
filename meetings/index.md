@@ -40,10 +40,11 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 
 #### 9:00 News From The Colleges
 
-#### 11:30 OCCC Business
+#### 11:00 OCCC Business
 
-* OCCC Elections
+* Tools & Platforms Survey - Mark Jones
 * Dave Swenson Award
+* OCCC Elections
 
 #### 12:00 Lunch
 
