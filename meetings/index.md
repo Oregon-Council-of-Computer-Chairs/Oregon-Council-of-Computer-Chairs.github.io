@@ -21,9 +21,10 @@ Friday, April 21, 2023
 
 ### Where
 
-[Oregon State University - Room TBA](https://www.google.com/maps/place/Johnson+Hall/@44.5678799,-123.2796073,15z/data=!4m2!3m1!1s0x0:0x1b54f09efe25db41?sa=X&ved=2ahUKEwjxk7mlhOj6AhXULH0KHbmzDrUQ_BJ6BAhnEAU)
+[Oregon State University](https://www.google.com/maps/place/Johnson+Hall/@44.5678799,-123.2796073,15z/data=!4m2!3m1!1s0x0:0x1b54f09efe25db41?sa=X&ved=2ahUKEwjxk7mlhOj6AhXULH0KHbmzDrUQ_BJ6BAhnEAU) - Johnson Hall, Room 221
 
-There will be a Zoom option available to join remotely.
+[Zoom link](
+https://oregonstate.zoom.us/j/94062086501?pwd=SmxSeE9yWVRmT0trUW5PMmtaNW5Odz09)
 
 Hosted by: [Brett Jeter](mailto:Brett.Jeter@oregonstate.edu)
 
