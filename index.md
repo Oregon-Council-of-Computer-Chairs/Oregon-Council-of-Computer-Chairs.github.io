@@ -65,5 +65,5 @@ Communication and organization of meetings is done via the OCCC mailing list. So
 
 ## Contact
 
-**OCCC Chair:** [Andrew Scholer - andrew.scholer@chemeketa.edu](mailto:andrew.scholer@chemeketa.edu)
+**OCCC Chair:** [Marc Goodman - marc.goodman@pcc.edu](mailto:marc.goodman@pcc.edu)
 **OCCC Secretary:** [Yong Bakos - yong.bakos@osucascades.edu](mailto:yong.bakos@osucascades.edu)
