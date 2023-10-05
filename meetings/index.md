@@ -17,25 +17,23 @@ special requirements for your meal.
 
 ### When
 
-Friday, April 21, 2023
+Friday, October 13th, 2023
 
 ### Where
 
-[Oregon State University](https://www.google.com/maps/place/Johnson+Hall/@44.5678799,-123.2796073,15z/data=!4m2!3m1!1s0x0:0x1b54f09efe25db41?sa=X&ved=2ahUKEwjxk7mlhOj6AhXULH0KHbmzDrUQ_BJ6BAhnEAU) - Johnson Hall, Room 221
+[Portland Community College](https://www.google.com/maps/place/Portland+Community+College+Sylvania/@45.4362149,-122.7296513,15z/data=!4m6!3m5!1s0x54950cba3875fa51:0x5c77683f4bae5208!8m2!3d45.4362149!4d-122.7296513!16s%2Fg%2F1tj739f5?entry=ttu) - Community Center (CC) Building, Elm and Fir Rooms
 
-[Zoom link](
-https://oregonstate.zoom.us/j/94062086501?pwd=SmxSeE9yWVRmT0trUW5PMmtaNW5Odz09)
+[Zoom link](https://portlandcc.zoom.us/j/7619573019)
 
-Hosted by: [Brett Jeter](mailto:Brett.Jeter@oregonstate.edu)
+Hosted by: [Marc Goodman](mailto:marc.goodman@pcc.edu)
 
 ### RSVP
 
-Please RSVP to let the host know if you will be attending In-Person or Virtually
-<https://oregonstate.qualtrics.com/jfe/form/SV_0cR1mdrGdJJoDsO>
+Please send email to [Marc Goodman](mailto:marc.goodman@pcc.edu) to let the host know if you will be attending In-Person or Virtually.
 
 ### Agenda
 
-Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@chemeketa.edu).
+Please submit agenda items to the chair, [Marc Goodman](mailto:marc.goodman@pcc.edu).
 
 #### 8:00 Informal Discussions
 
@@ -43,18 +41,21 @@ Please submit agenda items to the chair, [Andrew Scholer](mailto:andrew.scholer@
 
 #### 11:00 OCCC Business
 
-* Tools & Platforms Survey - Mark Jones
-* Dave Swenson Award
-* OCCC Elections
+* Tools & Platforms Survey, Summary - Mark Jones
+* Other old business
+* Trasfer Pathways for CTE Students
 
 #### 12:00 Lunch
 
 #### 1:00 Breakout sessions / Discussions
 
-* **Connecting Community College Students to Regional Universities:**   
-    The MTM makes the mechanics of transferring to a distant regional university much easier to manage for both students and institutions. But it does not solve problems around student awareness of different programs. In what ways could we work together to better inform students of the variety of
-    options they have?
+* **Non-Traditional CS and CIS Specializations**   
+    Not all of our students plan to become computer scientists. Some want to go into Cybersecurity, MIS, Datascience, Data Engineering, etc.
+	What "terminal" credentials do we offer for those students?
+	Are there transfer opportunities for students to complete 2 + 2 programs?
 
-* **Teaching Intro CS in the Post ChatGPT World:**   
-    Let's try to move past "the sky is falling, we need more in person assessment". How can code
-    generating/explaining tools be used productively in CS education?
+* **Developing a Plan for Creating More Transfer Opportunities**
+	What do we hope to accomplish?
+	What tasks will we need to complete in order to satisfy those goals?
+	Who will work on which parts?
+	
