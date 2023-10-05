@@ -15,7 +15,7 @@ This new OCCC website has replaced the wiki that was the web home of OCCC. You c
 reach the wiki at [archive.occcwiki.org](http://archive.occcwiki.org/index.php/Main_Page).
 The wiki is set to be completely retired in 2023. If there is a resource on it that is
 missing from the new site that you believe to be important, please contact
-[Andrew Scholer - andrew.scholer@chemeketa.edu](mailto:andrew.scholer@chemeketa.edu).
+[Marc Goodman - marc.goodman@pcc.edu](mailto:marc.goodman@pcc.edu).
 </div>
 
 <div class="twocols"><section markdown="1">
@@ -66,4 +66,4 @@ Communication and organization of meetings is done via the OCCC mailing list. So
 ## Contact
 
 **OCCC Chair:** [Marc Goodman - marc.goodman@pcc.edu](mailto:marc.goodman@pcc.edu)
-**OCCC Secretary:** [Yong Bakos - yong.bakos@osucascades.edu](mailto:yong.bakos@osucascades.edu)
+**OCCC Secretary:** [Jennifer Goudreau - goudreauj@lanecc.edu](mailto:goudreauj@lanecc.edu)
