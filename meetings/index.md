@@ -49,13 +49,13 @@ Please submit agenda items to the chair, [Marc Goodman](mailto:marc.goodman@pcc.
 
 #### 1:00 Breakout sessions / Discussions
 
-* **Non-Traditional CS and CIS Specializations**   
-    Not all of our students plan to become computer scientists. Some want to go into Cybersecurity, MIS, Datascience, Data Engineering, etc.	
-	What "terminal" credentials do we offer for those students?	
+* **Non-Traditional CS and CIS Specializations**  
+    Not all of our students plan to become computer scientists. Some want to go into Cybersecurity, MIS, Datascience, Data Engineering, etc.  
+	What "terminal" credentials do we offer for those students?  
 	Are there transfer opportunities for students to complete 2 + 2 programs?
 
-* **Developing a Plan for Creating More Transfer Opportunities**	
-	What do we hope to accomplish?	
-	What tasks will we need to complete in order to satisfy those goals?	
+* **Developing a Plan for Creating More Transfer Opportunities**  
+	What do we hope to accomplish?  
+	What tasks will we need to complete in order to satisfy those goals?  
 	Who will work on which parts?
 	

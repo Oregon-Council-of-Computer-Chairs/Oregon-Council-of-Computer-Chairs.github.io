@@ -65,5 +65,5 @@ Communication and organization of meetings is done via the OCCC mailing list. So
 
 ## Contact
 
-**OCCC Chair:** [Marc Goodman - marc.goodman@pcc.edu](mailto:marc.goodman@pcc.edu)
+**OCCC Chair:** [Marc Goodman - marc.goodman@pcc.edu](mailto:marc.goodman@pcc.edu)  
 **OCCC Secretary:** [Jennifer Goudreau - goudreauj@lanecc.edu](mailto:goudreauj@lanecc.edu)
