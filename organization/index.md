@@ -48,8 +48,8 @@ member_schools:
     name: Lane CC
     contacts:
     -
-        name: Joseph Colton
-        email: coltonj@lanecc.edu
+        name: Jennifer Goudreau
+        email: goudreauj@lanecc.edu
 -
     name: Linn-Benton CC
 -
