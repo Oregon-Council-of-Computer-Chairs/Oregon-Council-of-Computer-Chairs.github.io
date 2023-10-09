@@ -88,7 +88,7 @@ member_schools:
         name: Yong Bakos
         department: OSU EECS Curriculum Committee
         email: yong.bakos@oregonstate.edu
-
+    -
         name: Jill Hubbard
         department: OSU Cascades
         email: jill.hubbard@osucascades.edu
@@ -116,7 +116,7 @@ member_schools:
         email: mpj@pdx.edu
 -
     name: Rogue CC
-
+-
         name: Rosie Converse
         department: CS - Chair
         email: rconverse@roguecc.edu
