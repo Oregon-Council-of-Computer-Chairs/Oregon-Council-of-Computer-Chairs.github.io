@@ -116,6 +116,7 @@ member_schools:
         email: mpj@pdx.edu
 -
     name: Rogue CC
+    contacts:
 -
         name: Rosie Converse
         department: CS - Chair
@@ -124,14 +125,12 @@ member_schools:
     name: Southern Oregon University
     contacts:
     -
-        name: Fabrizzio Soares
-        email: soaresf@sou.edu
--
+        name: Maggie Vanderberg
+        email: vanderbem@sou.edu
+    -
     name: Southwestern Oregon CC
     contacts:
     -
-        name: Maggie Vanderberg
-        email: vanderbem@sou.edu
 -
     name: Tillamook Bay CC
 -
