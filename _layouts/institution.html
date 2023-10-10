@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+<article class="institution post">
+
+  <header class="post-header">
+    <h1 class="post-title">
+      <a href="{{page.institution.url}}">{{ page.institution.name | escape }}</a>
+    </h1>
+  </header>
+
+  <div class="institution-box">
+    <div class="institution-info">
+      <p>
+        {{ page.institution.why }}
+      </p>
+      
+      <p>
+        <strong>Location:</strong> <a alt="Google map link for {{page.institution.location}}" href="{{page.google_location}}">{{page.institution.location}}</a>
+      </p>
+      
+      <p>
+        <strong>Number of students:</strong> {{page.institution.fte}}
+      </p>
+      
+      <p>
+        <strong>More information:</strong>
+        <ul>
+          <li>
+            <em>Student Recruitment:</em> link here
+          </li>
+          <li>
+            <em>Transfer Info:</em> link here
+          </li>
+          <li>
+            <em>Housing Info:</em> link here
+          </li>
+        </ul>
+      </p>
+      
+    </div>
+    {% if page.institution.image %}
+    <img class="institution-image" src="{{ page.institution.image }}" />
+    {% endif %}
+  </div>
+
+  {% for d in page.departments %}
+  <div class="department-box">
+    <h2>
+      <a href="{{d.url}}">{{ d.name }}</a>
+    </h2>
+    <p>
+      {{ d.what }}
+    </p>
+    
+    <p>
+      <strong>Annual number of graduates:</strong> {{d.annual_grads}}
+    </p>
+    
+    <p>
+      <strong>Avg junior year class size:</strong> {{d.avg_class_size}}
+    </p>
+    <p>
+      <strong>More information:</strong>
+      <ul>
+        <li>
+          <em>Department Contact:</em> link here
+        </li>
+        <li>
+          <em>Department Recruiting:</em> link here
+        </li>
+      </ul>
+    </p>
+
+    {% for dgr in d.degrees %}
+    <h3>
+      <a href="{{dgr.url}}">{{ dgr.name }}</a>
+    </h3>
+    <p>
+      {{ d.what }}
+    </p>
+    <p>
+      <strong>Aligned to the CS Major Transfer Map: {% if dgr.mtm_compatible == true %}✓{% else %}✗{% endif%}</strong> 
+    </p>
+    <p>
+      <strong><a href="{{dgr.degree_requirements_link}}">Degree requirements</a></strong>
+    </p>
+
+    {% endfor %}
+
+  </div>
+  {% endfor %}
+
+</article>
