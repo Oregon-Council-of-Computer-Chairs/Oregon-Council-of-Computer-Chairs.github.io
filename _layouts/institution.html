@@ -6,22 +6,22 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">
-      <a href="{{page.institution.url}}">{{ page.institution.name | escape }}</a>
+      <a href="{{page.link}}">{{ page.name | escape }}</a>
     </h1>
   </header>
 
   <div class="institution-box">
     <div class="institution-info">
       <p>
-        {{ page.institution.why }}
+        {{ page.why }}
       </p>
       
       <p>
-        <strong>Location:</strong> <a alt="Google map link for {{page.institution.location}}" href="{{page.google_location}}">{{page.institution.location}}</a>
+        <strong>Location:</strong> <a alt="Google map link for {{page.location}}" href="{{page.google_location}}">{{page.location}}</a>
       </p>
       
       <p>
-        <strong>Number of students:</strong> {{page.institution.fte}}
+        <strong>Number of students:</strong> {{page.fte}}
       </p>
       
       <p>
@@ -40,15 +40,15 @@ layout: default
       </p>
       
     </div>
-    {% if page.institution.image %}
-    <img class="institution-image" src="{{ page.institution.image }}" />
+    {% if page.image %}
+    <img class="institution-image" src="{{ page.image }}" />
     {% endif %}
   </div>
 
   {% for d in page.departments %}
   <div class="department-box">
     <h2>
-      <a href="{{d.url}}">{{ d.name }}</a>
+      <a href="{{d.link}}">{{ d.name }}</a>
     </h2>
     <p>
       {{ d.what }}
@@ -75,7 +75,7 @@ layout: default
 
     {% for dgr in d.degrees %}
     <h3>
-      <a href="{{dgr.url}}">{{ dgr.name }}</a>
+      <a href="{{dgr.link}}">{{ dgr.name }}</a>
     </h3>
     <p>
       {{ d.what }}

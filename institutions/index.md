@@ -2,17 +2,9 @@
 title: Institutions
 ---
 
-
-<div id="institutions">
-{% assign school_list = site._past_meetings %}
---
-{{site}}
-{{school_list}}
-{% for m in school_list %}
-    asdfasdf
-{% endfor %} 
---
-<!-- {% for m in meetinglist %}
-    {% include_relative _meeting_template.html meeting=m %}
-{% endfor %} -->
-</div>
+<ul id="institutions">
+{% for i in site.institutions %}
+    <a href="{{i.machine_name}}" alt="{{i.name}}">{{i.name}}</a>
+{% endfor %}
+</ul>
+ 
