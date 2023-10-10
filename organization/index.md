@@ -131,6 +131,8 @@ member_schools:
     name: Southwestern Oregon CC
     contacts:
     -
+        name: Jamie Mason
+        email: jamie.mason@socc.edu
 -
     name: Tillamook Bay CC
 -
