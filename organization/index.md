@@ -117,7 +117,7 @@ member_schools:
 -
     name: Rogue CC
     contacts:
--
+    -
         name: Rosie Converse
         department: CS - Chair
         email: rconverse@roguecc.edu
