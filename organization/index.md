@@ -127,7 +127,7 @@ member_schools:
     -
         name: Maggie Vanderberg
         email: vanderbem@sou.edu
-    -
+-
     name: Southwestern Oregon CC
     contacts:
     -
