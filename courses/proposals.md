@@ -65,6 +65,26 @@ courses:
     institution: OCCC
     date_submitted: 2021-03-09
     date_approved: 2021-04-23
+-
+    number: CIS134
+    title: UI/UX Design
+    outline_link: /assets/files/course_outlines/CIS134.docx
+    credits: 4
+    submitter: Marc Goodman
+    submitter_email: marc.goodman@pcc.edu
+    institution: PCC
+    date_submitted: 2023-10-13
+    date_approved: 
+-
+    number: CIS182
+    title: Introduction to Cloud Computing
+    outline_link: /assets/files/course_outlines/CIS182.docx
+    credits: 4
+    submitter: Marc Goodman
+    submitter_email: marc.goodman@pcc.edu
+    institution: PCC
+    date_submitted: 2023-10-13
+    date_approved: 
 
 ---
 
