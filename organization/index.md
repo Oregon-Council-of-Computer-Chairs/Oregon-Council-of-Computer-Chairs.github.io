@@ -48,8 +48,8 @@ member_schools:
     name: Lane CC
     contacts:
     -
-        name: Joseph Colton
-        email: coltonj@lanecc.edu
+        name: Jennifer Goudreau
+        email: goudreauj@lanecc.edu
 -
     name: Linn-Benton CC
 -
@@ -86,8 +86,12 @@ member_schools:
         email: Brett.Jeter@oregonstate.edu
     -
         name: Yong Bakos
+        department: OSU EECS Curriculum Committee
+        email: yong.bakos@oregonstate.edu
+    -
+        name: Jill Hubbard
         department: OSU Cascades
-        email: yong.bakos@osucascades.edu
+        email: jill.hubbard@osucascades.edu
 -
     name: Portland CC
     contacts:
@@ -96,9 +100,9 @@ member_schools:
         department: CIS
         email: marc.goodman@pcc.edu
     -
-        name: Gayathri (GD) Iyer
+        name: Nick Insalata
         department: CS
-        email: gd.iyer@pcc.edu
+        email: nicholas.insalata@pcc.edu
 -
     name: Portland State University
     contacts:
@@ -112,12 +116,17 @@ member_schools:
         email: mpj@pdx.edu
 -
     name: Rogue CC
+    contacts:
+    -
+        name: Rosie Converse
+        department: CS - Chair
+        email: rconverse@roguecc.edu
 -
     name: Southern Oregon University
     contacts:
     -
-        name: Fabrizzio Soares
-        email: soaresf@sou.edu
+        name: Maggie Vanderberg
+        email: vanderbem@sou.edu
 -
     name: Southwestern Oregon CC
     contacts:
@@ -139,7 +148,7 @@ member_schools:
     contacts:
     -
         name: Kathleen Freeman
-        email: kfreeman@cs.uoregon.edu
+        email: kfh@uoregon.edu
 -
     name: Western Oregon University
     contacts:
