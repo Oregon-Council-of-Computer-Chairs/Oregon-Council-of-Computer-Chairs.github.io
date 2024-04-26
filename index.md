@@ -51,7 +51,7 @@ missing from the new site that you believe to be important, please contact
   Statewide degree developed in 2014. Provides the same guarantees as the AAOT but also includes math
   and CS courses likely needed to study CS. Largely made obsolete by the MTM and AST degree.
 
-    [CS Major Transfer Map]:https://www.oregon.gov/highered/policy-collaboration/Documents/Transfer-Credit/2998/Statewide%20Articulation%20Agreement,%20Major%20Transfer%20Map%20in%20Computer%20Science.pdf
+    [CS Major Transfer Map]:https://www.oregon.gov/highered/about/transfer/Documents/Transfer-Resources/Transfer%20MOUs/FINAL%20CS%20MOU%204.28.22.pdf
 
     [Associate of Science Transfer degree]:https://www.oregon.gov/highered/institutions-programs/ccwd/Documents/Transfer%20Documents%20for%20Academic%20Program%20Approval%20Page/AAT.AST%20Master%20Document%20with%20MTMs.pdf
 
