@@ -53,9 +53,9 @@ missing from the new site that you believe to be important, please contact
 
     [CS Major Transfer Map]:https://www.oregon.gov/highered/about/transfer/Documents/Transfer-Resources/Transfer%20MOUs/FINAL%20CS%20MOU%204.28.22.pdf
 
-    [Associate of Science Transfer degree]:https://www.oregon.gov/highered/institutions-programs/ccwd/Documents/Transfer%20Documents%20for%20Academic%20Program%20Approval%20Page/AAT.AST%20Master%20Document%20with%20MTMs.pdf
+ <!--  This is no long valid and I can't find a valid entry JG  [Associate of Science Transfer degree]:https://www.oregon.gov/highered/institutions-programs/ccwd/Documents/Transfer%20Documents%20for%20Academic%20Program%20Approval%20Page/AAT.AST%20Master%20Document%20with%20MTMs.pdf
 
-    [ASOT - CS]:https://www.oregon.gov/highered/institutions-programs/ccwd/SiteAssets/Pages/community-college-program-approval/Associate%20of%20Science%20Oregon%20Transfer%20in%20Computer%20Science%20(ASOT-CS).docx
+    [ASOT - CS]:https://www.oregon.gov/highered/institutions-programs/ccwd/SiteAssets/Pages/community-college-program-approval/Associate%20of%20Science%20Oregon%20Transfer%20in%20Computer%20Science%20(ASOT-CS).docx  -->
 
 </section></div>
 
