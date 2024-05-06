@@ -17,7 +17,7 @@ special requirements for your meal.
 
 ### When
 
-Friday, April 26, 2024
+Friday, October 26th, 2024
 
 ### Where
 
