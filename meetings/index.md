@@ -21,7 +21,7 @@ Friday, October 18th, 2024
 
 ### Where
 
-[Portland Community College](https://www.google.com/maps/place/Portland+Community+College+Sylvania/@45.4362149,-122.7296513,15z/data=!4m6!3m5!1s0x54950cba3875fa51:0x5c77683f4bae5208!8m2!3d45.4362149!4d-122.7296513!16s%2Fg%2F1tj739f5?entry=ttu) - Amo DeBernardis College Center (CC) Building, Elm and Fir Rooms
+[Portland Community College](https://www.google.com/maps/place/Portland+Community+College+Sylvania/@45.4362149,-122.7296513,15z/data=!4m6!3m5!1s0x54950cba3875fa51:0x5c77683f4bae5208!8m2!3d45.4362149!4d-122.7296513!16s%2Fg%2F1tj739f5?entry=ttu) - HT (Health Technology Building) Room 310, PCC Sylvania Campus
 
 [Zoom link](https://portlandcc.zoom.us/j/7619573019)
 
