@@ -21,7 +21,7 @@ Friday, October 18th, 2024
 
 ### Where
 
-[Portland Community College](https://www.google.com/maps/place/Portland+Community+College+Sylvania/@45.4362149,-122.7296513,15z/data=!4m6!3m5!1s0x54950cba3875fa51:0x5c77683f4bae5208!8m2!3d45.4362149!4d-122.7296513!16s%2Fg%2F1tj739f5?entry=ttu) - HT (Health Technology Building) Room 310, PCC Sylvania Campus
+[Portland Community College](https://www.google.com/maps/place/45%C2%B026'22.1%22N+122%C2%B043'55.1%22W/@45.4393707,-122.7323376,18z/data=!4m4!3m3!8m2!3d45.43947!4d-122.731967?entry=ttu&g_ep=EgoyMDI0MTAwOC4wIKXMDSoASAFQAw%3D%3D) - HT (Health Technology Building) Room 310, PCC Sylvania Campus
 
 [Zoom link](https://portlandcc.zoom.us/j/7619573019)
 
