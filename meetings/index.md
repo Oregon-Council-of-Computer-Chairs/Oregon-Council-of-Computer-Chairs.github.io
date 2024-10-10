@@ -4,7 +4,7 @@ title: Meeting Info
 
 The OCCC has meetings during the Fall and Spring of each academic year, with the
 host and dates selected at the previous meeting. The host is responsible for
-handling RSVPs via the [email list](https://it.engineering.oregonstate.edu/mailman/listinfo/occc)
+handling RSVPs via the [email list](occc-group@pcc.edu)
 and arranging the meeting room, food, parking,
 and group photo plans. Contact them to confirm your attendance and specify any
 special requirements for your meal.
@@ -37,13 +37,24 @@ Please submit agenda items to the chair, [Marc Goodman](mailto:marc.goodman@pcc.
 
 #### 8:00 Informal Discussions
 
-#### 9:00 News From The Colleges
+#### 9:00 Progress on Cybersecurity Policy and Management Degree, [Shawn Smallman, PSU](https://www.pdx.edu/profile/shawn-smallman)
 
-#### 11:00 OCCC Business
+#### 9:30 News From The Colleges
 
-* Other new and old business
+#### 11:30 OCCC Business
+
+* [OCCC Mailing list](occc-group@pcc.edu)
+* Next Meeting Date and Location
+* One-pagers for our schools
 
 #### 12:00 Lunch
 
-#### 1:00 Breakout sessions / Discussions
+#### 1:00 Discussions
+
+* Laptop Loaner Programs
+* Survey of IT Policies
+    - Bring Your Own Device
+	- IT Administered Devices
+* Survey of AI Policies
+ 
 
