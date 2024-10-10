@@ -58,7 +58,7 @@ missing from the new site that you believe to be important, please contact
 
 ## How to Get Involved
 
-Communication and organization of meetings is done via the OCCC mailing list. So to get involved, please contact the OCCC Chair (below) and ask to be added to the [OCCC Google Group](occc-group@pcc.edu).
+Communication and organization of meetings is done via the OCCC mailing list. So to get involved, please contact the OCCC Chair (below) and ask to be added to the [OCCC Google Group](mailto:occc-group@pcc.edu).
 
 ## Contact
 
