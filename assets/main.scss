@@ -40,6 +40,14 @@ h2 {
     font-size: 32px;
 }
 
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
 a {
     font-weight: 600;
 }
@@ -205,4 +213,8 @@ a {
         order: -1;
         max-width: 100%;
     }
+}
+
+.department-box {
+    margin-top: 40px;
 }

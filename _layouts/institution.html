@@ -12,9 +12,12 @@ layout: default
 
   <div class="institution-box">
     <div class="institution-info">
+      {% assign paragraphs = page.why | newline_to_br  %}
+      {% for p in paragraphs %}
       <p>
-        {{ page.why }}
+        {{ p }}
       </p>
+      {% endfor %}
       
       <p>
         <strong>Location:</strong> <a alt="Google map link for {{page.location}}" href="{{page.google_location}}">{{page.location}}</a>
@@ -27,15 +30,26 @@ layout: default
       <p>
         <strong>More information:</strong>
         <ul>
+          {% if page.recruitment_info_link %}
           <li>
-            <em>Student Recruitment:</em> link here
+            <a href="{{ page.recruitment_info_link }}">Student Recruitment</a>
           </li>
+          {% endif %}
+          {% if page.transfer_info_link %}
           <li>
-            <em>Transfer Info:</em> link here
+            <a href="{{ page.transfer_info_link }}">Transfer Info</a>
           </li>
+          {% endif %}
+          {% if page.housing_info_link %}
           <li>
-            <em>Housing Info:</em> link here
+            <a href="{{ page.housing_info_link }}">Housing Info</a>
           </li>
+          {% endif %}
+          {% if page.expected_cost_link %}
+          <li>
+            <a href="{{ page.expected_cost_link }}">Expected Cost of Attendance</a>
+          </li>
+          {% endif %}
         </ul>
       </p>
       
@@ -50,44 +64,68 @@ layout: default
     <h2>
       <a href="{{d.link}}">{{ d.name }}</a>
     </h2>
+
+    {% assign paragraphs = d.what | newline_to_br  %}
+    {% for p in paragraphs %}
     <p>
-      {{ d.what }}
+      {{ p }}
     </p>
-    
+    {% endfor %}
+
+    <h3>Department Data and Links</h3>
     <p>
       <strong>Annual number of graduates:</strong> {{d.annual_grads}}
     </p>
     
     <p>
-      <strong>Avg junior year class size:</strong> {{d.avg_class_size}}
-    </p>
-    <p>
       <strong>More information:</strong>
       <ul>
         <li>
-          <em>Department Contact:</em> link here
+          {% if d.contact.link %}
+          <a href="{{ d.website }}">
+          {% endif %}
+            {{ d.contact.name }}
+          {% if d.contact.link %}
+          </a>
+          {% endif %}
+          {% if d.contact.email %}
+            - <a href="mailto:{{ d.contact.email }}"> {{ d.contact.email }} ✉</a> 
+          {% endif %}
         </li>
+        {% if d.application_info_link %}
         <li>
-          <em>Department Recruiting:</em> link here
+          <a href="{{ d.application_info_link }}">Application Information</a>
         </li>
+        {% endif %}
       </ul>
     </p>
 
+    {% if d.degrees %}
+    <h3>Degrees Offered</h3>
+    <ul class="degree-box">
     {% for dgr in d.degrees %}
-    <h3>
-      <a href="{{dgr.link}}">{{ dgr.name }}</a>
-    </h3>
-    <p>
-      {{ d.what }}
-    </p>
-    <p>
-      <strong>Aligned to the CS Major Transfer Map: {% if dgr.mtm_compatible == true %}✓{% else %}✗{% endif%}</strong> 
-    </p>
-    <p>
-      <strong><a href="{{dgr.degree_requirements_link}}">Degree requirements</a></strong>
-    </p>
+    <li>
+      <h3>
+        <a href="{{dgr.link}}">{{ dgr.name }}</a>
+      </h3>
 
+      {% assign paragraphs = dgr.what | newline_to_br  %}
+      {% for p in paragraphs %}
+      <p>
+        {{ p }}
+      </p>
+      {% endfor %}
+
+      <p>
+        <strong>Aligned to the CS Major Transfer Map: {% if dgr.mtm_compatible == true %}✓{% else %}✗{% endif%}</strong> 
+      </p>
+      <p>
+        <strong><a href="{{dgr.degree_requirements_link}}">Degree requirements</a></strong>
+      </p>
+    </li>
     {% endfor %}
+    </ul>
+    {% endif %}
 
   </div>
   {% endfor %}
