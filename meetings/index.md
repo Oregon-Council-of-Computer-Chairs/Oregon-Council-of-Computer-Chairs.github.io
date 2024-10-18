@@ -23,7 +23,7 @@ Friday, April 25th, 2025
 
 [Lane Community College](https://maps.app.goo.gl/MbvP4v3jHvfj5Zfb8) - ITEC Lane Community College Main Campus
 
-[Zoom link](tba)
+[Zoom link](https://lanecc.zoom.us/j/96260626097)
 
 Hosted by: [Jenn Goudreau](mailto:goudreauj@lanecc.edu)
 
