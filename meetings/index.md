@@ -17,19 +17,19 @@ special requirements for your meal.
 
 ### When
 
-Friday, October 18th, 2024
+Friday, April 25th, 2025
 
 ### Where
 
-[Portland Community College](https://www.google.com/maps/place/45%C2%B026'22.1%22N+122%C2%B043'55.1%22W/@45.4393707,-122.7323376,18z/data=!4m4!3m3!8m2!3d45.43947!4d-122.731967?entry=ttu&g_ep=EgoyMDI0MTAwOC4wIKXMDSoASAFQAw%3D%3D) - HT (Health Technology Building) Room 310, PCC Sylvania Campus
+[Lane Community College](https://maps.app.goo.gl/MbvP4v3jHvfj5Zfb8) - ITEC Lane Community College Main Campus
 
-[Zoom link](https://portlandcc.zoom.us/j/7619573019)
+[Zoom link](tba)
 
-Hosted by: [Marc Goodman](mailto:marc.goodman@pcc.edu)
+Hosted by: [Jenn Goudreau](mailto:goudreauj@lanecc.edu)
 
 ### RSVP
 
-Please send email to [Marc Goodman](mailto:marc.goodman@pcc.edu) to let the host know if you will be attending In-Person or Virtually.
+Please send email to [Jenn Goudreau](mailto:goudreauj@lanecc.edu) to let the host know if you will be attending In-Person or Virtually.
 
 ### Agenda
 
