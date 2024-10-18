@@ -37,24 +37,11 @@ Please submit agenda items to the chair, [Marc Goodman](mailto:marc.goodman@pcc.
 
 #### 8:00 Informal Discussions
 
-#### 9:00 Progress on Cybersecurity Policy and Management Degree, [Shawn Smallman, PSU](https://www.pdx.edu/profile/shawn-smallman)
-
 #### 9:30 News From The Colleges
 
 #### 11:30 OCCC Business
 
-* [OCCC Mailing list](mailto:occc-group@pcc.edu)
-* Next Meeting Date and Location
-* One-pagers for our schools
-
 #### 12:00 Lunch
 
 #### 1:00 Discussions
-
-* Laptop Loaner Programs
-* Survey of IT Policies
-    - Bring Your Own Device
-	- IT Administered Devices
-* Survey of AI Policies
- 
 
