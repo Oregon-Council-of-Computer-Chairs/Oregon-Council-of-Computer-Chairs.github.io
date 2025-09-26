@@ -153,12 +153,8 @@ member_schools:
     name: Western Oregon University
     contacts:
     -
-        name: Breeann Flesch
-        department: CS Division Chair
-        email: fleschb@wou.edu 
-    -
         name: Becka Morgan
-        department: CS
+        department: CS Division Chair
         email: morganb@wou.edu
 
 ---
