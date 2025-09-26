@@ -88,7 +88,7 @@ courses:
 -
     number: CIS112
     title: AI Literacy
-    outline_link: /assets/files/course_outlines/CIS112.pdf
+    outline_link: /assets/files/course_outlines/CIS 112.pdf
     credits: 4
     submitter: Marc Goodman
     submitter_email: marc.goodman@pcc.edu
@@ -98,7 +98,7 @@ courses:
 -
     number: CIS212
     title: Introduction to AI Programming
-    outline_link: /assets/files/course_outlines/CIS212.pdf
+    outline_link: /assets/files/course_outlines/CIS 212.pdf
     credits: 4
     submitter: Marc Goodman
     submitter_email: marc.goodman@pcc.edu
