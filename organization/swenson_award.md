@@ -8,6 +8,7 @@ The David Swenson Award was created to recognize of scholarship, leadership, and
 
 ## Past Award Winners
 
+* Andrew Scholer of Chemeketa Community College (April, 2025)
 * Robert Surton of Chemeketa Community College (April 2023)
 * John Blackwood of Umpqua Community College (April 2016)
 * Dodi Coreson of Linn Benton Community College (May 2015)

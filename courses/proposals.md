@@ -85,6 +85,26 @@ courses:
     institution: PCC
     date_submitted: 2023-10-13
     date_approved: 
+-
+    number: CIS112
+    title: AI Literacy
+    outline_link: /assets/files/course_outlines/CIS112.pdf
+    credits: 4
+    submitter: Marc Goodman
+    submitter_email: marc.goodman@pcc.edu
+    institution: PCC
+    date_submitted: 2025-04-25
+    date_approved: 
+-
+    number: CIS212
+    title: Introduction to AI Programming
+    outline_link: /assets/files/course_outlines/CIS212.pdf
+    credits: 4
+    submitter: Marc Goodman
+    submitter_email: marc.goodman@pcc.edu
+    institution: PCC
+    date_submitted: 2025-04-25
+    date_approved: 
 
 ---
 
