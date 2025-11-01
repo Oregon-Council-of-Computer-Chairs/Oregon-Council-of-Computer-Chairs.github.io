@@ -33,6 +33,11 @@ courses:
     credits: 4
     date_approved: 1989-10-26
 -
+    number: 112
+    title: AI Literacy
+    credits: 4
+    date_approved: 2025-10-17
+-
     number: 120
     title: Digital Literacy
     credits: 4
@@ -229,6 +234,11 @@ courses:
     outline_link: /courses/cs_outcomes.html
     credits: 4
     date_approved: 2021-04-23
+-
+    number: 212
+    title: Introduction to AI Programming
+    credits: 4
+    date_approved: 2025-10-17
 -
     number: 225
     title: Computer End-User Support I

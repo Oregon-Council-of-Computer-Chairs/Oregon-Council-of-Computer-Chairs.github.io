@@ -94,7 +94,7 @@ courses:
     submitter_email: marc.goodman@pcc.edu
     institution: PCC
     date_submitted: 2025-04-25
-    date_approved: 
+    date_approved: 2025-10-17
 -
     number: CIS212
     title: Introduction to AI Programming
@@ -104,7 +104,7 @@ courses:
     submitter_email: marc.goodman@pcc.edu
     institution: PCC
     date_submitted: 2025-04-25
-    date_approved: 
+    date_approved: 2925-10-17
 
 ---
 
