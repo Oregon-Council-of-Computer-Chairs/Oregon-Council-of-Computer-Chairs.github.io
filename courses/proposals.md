@@ -96,6 +96,15 @@ courses:
     date_submitted: 2025-04-25
     date_approved: 2025-10-17
 -
+    number: CS210
+    title: Introduction to Machine Learning
+    credits: 4
+    submitter: John Blackwood
+    submitter_email: john.blackwood@umpqua.edu
+    institution: UCC
+    date_submitted: 2025-04-25
+    date_approved: 2025-10-17
+-
     number: CIS212
     title: Introduction to AI Programming
     outline_link: /assets/files/course_outlines/CIS 212.pdf
@@ -104,7 +113,7 @@ courses:
     submitter_email: marc.goodman@pcc.edu
     institution: PCC
     date_submitted: 2025-04-25
-    date_approved: 2925-10-17
+    date_approved: 2025-10-17
 
 ---
 

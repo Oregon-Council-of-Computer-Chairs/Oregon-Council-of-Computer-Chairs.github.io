@@ -235,6 +235,11 @@ courses:
     credits: 4
     date_approved: 2021-04-23
 -
+    number: 210
+    title: Introduction to Machine Learning
+    credits: 4
+    date_approved: 2025-10-17
+-
     number: 212
     title: Introduction to AI Programming
     credits: 4
