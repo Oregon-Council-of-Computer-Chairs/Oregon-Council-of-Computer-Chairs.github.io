@@ -10,14 +10,6 @@ OCCC is responsible for maintaining course numberings for CS and CIS labeled cou
 the community college system as well as for maintaining the statewide CS Major
 Transfer Map and the ASOT-CS degree.
 
-<div class="alert alert-warning" markdown="1">
-This new OCCC website has replaced the wiki that was the web home of OCCC. You can still
-reach the wiki at [archive.occcwiki.org](http://archive.occcwiki.org/index.php/Main_Page).
-The wiki is set to be completely retired in 2023. If there is a resource on it that is
-missing from the new site that you believe to be important, please contact
-[Marc Goodman - marc.goodman@pcc.edu](mailto:marc.goodman@pcc.edu).
-</div>
-
 <div class="twocols"><section markdown="1">
 
 ## Organization
