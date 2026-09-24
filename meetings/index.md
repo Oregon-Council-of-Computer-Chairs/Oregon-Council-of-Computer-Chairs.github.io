@@ -17,14 +17,15 @@ special requirements for your meal.
 
 ### When
 
-Friday, April 24th, 2026
+Friday, October 23rd, 2026
 
 ### Where
 
-[Chemeketa Eola](https://www.chemeketa.edu/locations/chemeketa-eola/) - [Map](https://www.google.com/url?q=https://urldefense.com/v3/__https://www.google.com/maps/place/Chemeketa*Eola/@44.9348746,-123.1121237,15z/data%3D!4m6!3m5!1s0x54c0005c8a3d0869:0x17aa321a8960845e!8m2!3d44.9346581!4d-123.1109811!16s*2Fg*2F11_r3rmhl?entry%3Dttu%26g_ep%3DEgoyMDI2MDMyNC4wIKXMDSoASAFQAw*3D*3D__;KyUlJSU!!Ka_JY85zDv0FFw!gQlAJeBMPLcvoYW6yPwYxQRLuPNvQnj_JO9j31nvsp2c35DeqR7In4Bs70_G5lOGX4JMRCYPqRcUy3txGkfbN0BGHg$&source=gmail-imap&ust=1775506525000000&usg=AOvVaw1iVWBnleGpl-YA61cRL1yd)  
-No parking pass required. We will be in the main building in the Merlot room.
-
-[Zoom link](https://portlandcc.zoom.us/j/7619573019)
+Lane Community College main campus\
+4000 E. 30th Ave., Eugene, OR 97405\
+Building 33, Room 230 (Note: New building next to Building 8)\
+Use Eldon Schafer Dr. off E. 30th Ave. to get to Parking Lot M.\
+No permit required for parking.
 
 Hosted by: [Jenn Goudreau](mailto:goudreauj@lanecc.edu)
 
@@ -36,9 +37,11 @@ Please send email to [Jenn Goudreau](mailto:goudreauj@lanecc.edu) to let the hos
 
 Please submit agenda items to the chair, [Jenn Goudreau](mailto:goudreauj@lanecc.edu).
 
+### [Join via Zoom](https://lanecc.zoom.us/j/93650966709)
+
 #### 8:00 Informal Discussions
 
-#### 9:30 News From The Colleges
+#### 9:00 News From The Colleges
 
 #### 11:30 OCCC Business
 
