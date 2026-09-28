@@ -141,8 +141,13 @@ member_schools:
     name: Umpqua CC
     contacts:
     -
-        name: John Blackwood
-        email: john.blackwood@umpqua.edu
+        name: Justin Deedon
+        department: CIS
+        email: justin.deedon@umpqua.edu
+    -
+        name: Vincent Yip
+        department: CS
+        email: vincent.yip@umpqua.edu
 -
     name: University of Oregon
     contacts:
