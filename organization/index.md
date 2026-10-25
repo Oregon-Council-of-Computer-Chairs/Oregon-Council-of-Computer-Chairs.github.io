@@ -4,6 +4,10 @@ title: Members
 member_schools:
 -
     name: Blue Mountain CC
+    contacts:
+    -
+        name: Pete Hernberg
+        email: phernberg@blueccc.edu
 -
     name: Central Oregon CC
     contacts:
@@ -56,9 +60,17 @@ member_schools:
     name: Mt. Hood CC
     contacts:
     -
-        name: Wayne Machuca
+        name: Mitch Priestley
+    <img width="124" height="21" alt="image" src="https://github.com/user-attachments/assets/38be2ab5-1292-46fb-9923-06189d543c70" />
+
         department: CIS
-        email: Wayne.Machuca@mhcc.edu
+        email: mitchell.priestley@mhcc.edu
+
+![Uploading image.png…]()
+
+        
+![Uploading image.png…]()
+
 -
     name: Oregon Coast CC
     contacts:
@@ -158,9 +170,9 @@ member_schools:
     name: Western Oregon University
     contacts:
     -
-        name: Becka Morgan
+        name: Tad Shannon
         department: CS Division Chair
-        email: morganb@wou.edu
+        email: shannont@wou.edu
 
 ---
 
