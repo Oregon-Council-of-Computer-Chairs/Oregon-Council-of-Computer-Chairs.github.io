@@ -95,6 +95,10 @@ member_schools:
         name: Jill Hubbard
         department: OSU Cascades
         email: jill.hubbard@osucascades.edu
+    -
+        name: Nick Insalata
+        department: CS
+        email: nicholas.insalata@pcc.edu
 -
     name: Portland CC
     contacts:
@@ -103,12 +107,9 @@ member_schools:
         department: CIS
         email: marc.goodman@pcc.edu
     -
-        name: Nick Insalata
-        department: CS
-        email: nicholas.insalata@pcc.edu
--
     name: Portland State University
     contacts: 
+    -
     -
         name: Karla Fant
         department: CS
