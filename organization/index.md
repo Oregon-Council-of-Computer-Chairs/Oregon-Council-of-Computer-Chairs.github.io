@@ -99,7 +99,7 @@ member_schools:
         name: Nick Insalata
         department: CS
         email: nicholas.insalata@pcc.edu
--
+    -
     name: Portland CC
     contacts:
     -
