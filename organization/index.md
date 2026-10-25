@@ -63,7 +63,8 @@ member_schools:
         name: Mitch Priestley
         department: CIS
         email: mitchell.priestley@mhcc.edu
-
+    -
+        
 ![Uploading image.png…]()
 
         
