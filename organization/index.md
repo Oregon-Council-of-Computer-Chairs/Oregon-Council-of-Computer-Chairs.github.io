@@ -113,6 +113,10 @@ member_schools:
         name: Karla Fant
         department: CS
         email: karlaf@cs.pdx.edu
+        -
+        name: Wu-chi Feng
+        department: Chair
+        email: wuchi@pdx.edu
     -
     name: Rogue CC
     contacts:
