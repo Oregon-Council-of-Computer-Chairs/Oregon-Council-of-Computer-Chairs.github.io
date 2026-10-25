@@ -8,7 +8,7 @@ member_schools:
     contacts:
     -
         name: Pete Hernberg
-        email: phernberg@blueccc.edu
+        email: phernberg@bluecc.edu
 -
     name: Central Oregon CC
     contacts:
@@ -69,10 +69,7 @@ member_schools:
     name: Oregon Coast CC
     contacts:
     -
-        name: Wayne Machuca
-        department: CIS
-        email: Wayne.Machuca@mhcc.edu
--
+
     name: Oregon Institute of Technology
     contacts:
     -
@@ -117,10 +114,6 @@ member_schools:
         department: CS
         email: karlaf@cs.pdx.edu
     -
-        name: Mark Jones
-        department: CS - Chair
-        email: mpj@pdx.edu
--
     name: Rogue CC
     contacts:
     -
@@ -158,8 +151,11 @@ member_schools:
     name: University of Oregon
     contacts:
     -
-        name: Kathleen Freeman
-        email: kfh@uoregon.edu
+        name: Hank Childs
+        email: hank@uoregon.edu
+    -
+        name: Juan Flores
+        email: jflore10@uoregon.edu
 -
     name: Western Oregon University
     contacts:
