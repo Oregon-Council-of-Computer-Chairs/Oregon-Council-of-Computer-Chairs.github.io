@@ -32,7 +32,7 @@ Please send email to [Brett Jeter](mailto:Brett.Jeter@oregonstate.edu) to let th
 
 Please submit agenda items to the chair, [Jenn Goudreau](mailto:goudreauj@lanecc.edu).
 
-### [Join via Zoom](https://lanecc.zoom.us/j/93650966709)
+### [Join via Zoom](https://lanecc.zoom.us/j/92717044163)
 
 #### 8:00 Informal Discussions
 
