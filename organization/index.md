@@ -64,13 +64,7 @@ member_schools:
         department: CIS
         email: mitchell.priestley@mhcc.edu
     -
-        
-![Uploading image.png…]()
 
-        
-![Uploading image.png…]()
-
--
     name: Oregon Coast CC
     contacts:
     -
