@@ -109,7 +109,7 @@ member_schools:
     -
     name: Portland State University
     contacts:
-     -
+    -
         name: Wu-chi Feng
         department: CS Chair
         email: wuchi@pdx.edu
