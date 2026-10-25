@@ -109,16 +109,15 @@ member_schools:
     -
     name: Portland State University
     contacts: 
-    -
-    -
-        name: Karla Fant
-        department: CS
-        email: karlaf@cs.pdx.edu
         -
         name: Wu-chi Feng
         department: CS Chair
         email: wuchi@pdx.edu
-    -
+     -
+        name: Karla Fant
+        department: CS
+        email: karlaf@cs.pdx.edu
+   -
     name: Rogue CC
     contacts:
     -
