@@ -1,8 +1,8 @@
----
+    ---
 title: Members
 
 member_schools:
--
+
 -
     name: Blue Mountain CC
     contacts:
@@ -64,12 +64,10 @@ member_schools:
         name: Mitch Priestley
         department: CIS
         email: mitchell.priestley@mhcc.edu
-    -
-
+ -
     name: Oregon Coast CC
     contacts:
-    -
-
+-
     name: Oregon Institute of Technology
     contacts:
     -
@@ -99,14 +97,14 @@ member_schools:
         name: Nick Insalata
         department: CS
         email: nicholas.insalata@pcc.edu
-    -
+-
     name: Portland CC
     contacts:
     -
         name: Marc Goodman
         department: CIS
         email: marc.goodman@pcc.edu
-    -
+-
     name: Portland State University
     contacts:
     -
@@ -117,7 +115,7 @@ member_schools:
         name: Karla Fant
         department: CS
         email: karlaf@cs.pdx.edu
-   -
+-
     name: Rogue CC
     contacts:
     -
