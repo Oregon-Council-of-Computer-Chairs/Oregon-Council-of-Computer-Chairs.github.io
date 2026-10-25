@@ -21,17 +21,12 @@ Friday, October 23rd, 2026
 
 ### Where
 
-Lane Community College main campus\
-4000 E. 30th Ave., Eugene, OR 97405\
-Building 33, Room 230 (Note: New building next to Building 8)\
-Use Eldon Schafer Dr. off E. 30th Ave. to get to Parking Lot M.\
-No permit required for parking.
-
-Hosted by: [Jenn Goudreau](mailto:goudreauj@lanecc.edu)
+Tentative: Oregon State University: Bend Campus
+Hosted by: [Brett Jeter](mailto:Brett.Jeter@oregonstate.edu)
 
 ### RSVP
 
-Please send email to [Jenn Goudreau](mailto:goudreauj@lanecc.edu) to let the host know if you will be attending In-Person or Virtually.
+Please send email to [Brett Jeter](mailto:Brett.Jeter@oregonstate.edu) to let the host know if you will be attending In-Person or Virtually.
 
 ### Agenda
 
