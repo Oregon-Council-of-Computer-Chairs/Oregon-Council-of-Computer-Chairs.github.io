@@ -61,8 +61,6 @@ member_schools:
     contacts:
     -
         name: Mitch Priestley
-    <img width="124" height="21" alt="image" src="https://github.com/user-attachments/assets/38be2ab5-1292-46fb-9923-06189d543c70" />
-
         department: CIS
         email: mitchell.priestley@mhcc.edu
 
