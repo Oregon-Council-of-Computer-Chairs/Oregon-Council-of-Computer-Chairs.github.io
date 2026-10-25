@@ -1,4 +1,4 @@
-    ---
+---
 title: Members
 
 member_schools:
@@ -64,7 +64,7 @@ member_schools:
         name: Mitch Priestley
         department: CIS
         email: mitchell.priestley@mhcc.edu
- -
+-
     name: Oregon Coast CC
     contacts:
 -
@@ -111,7 +111,7 @@ member_schools:
         name: Wu-chi Feng
         department: CS Chair
         email: wuchi@pdx.edu
-     -
+    -
         name: Karla Fant
         department: CS
         email: karlaf@cs.pdx.edu
