@@ -3,6 +3,7 @@ title: Members
 
 member_schools:
 -
+-
     name: Blue Mountain CC
     contacts:
     -
