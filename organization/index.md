@@ -108,8 +108,8 @@ member_schools:
         email: marc.goodman@pcc.edu
     -
     name: Portland State University
-    contacts: 
-        -
+    contacts:
+     -
         name: Wu-chi Feng
         department: CS Chair
         email: wuchi@pdx.edu
