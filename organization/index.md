@@ -108,14 +108,14 @@ member_schools:
         email: nicholas.insalata@pcc.edu
 -
     name: Portland State University
-    contacts:
+    contacts: 
     -
         name: Karla Fant
         department: CS
         email: karlaf@cs.pdx.edu
         -
         name: Wu-chi Feng
-        department: Chair
+        department: CS Chair
         email: wuchi@pdx.edu
     -
     name: Rogue CC
